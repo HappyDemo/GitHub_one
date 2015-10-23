@@ -14,6 +14,8 @@ int main(int argc, const char * argv[]) {
         NSLog(@"Hello, World!");
         NSLog(@"HELLOME");
         NSLog(@"第三个版本");
+        NSLog(@"第四个版本");
+        NSLog(@"Hello, World!");
     }
     return 0;
 }
